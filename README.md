@@ -1,0 +1,2 @@
+# EcoRecycle-System
+The main objective of the project is to create a chain of recycling machines controlled by a recycling monitoring station. Each recycling machines acts as a reverse vending machine. User can dump the specified types of waste materials into the the recycling machine and in turn can get some minimal amount of money in terms of cash/coins. Recycling monitoring station controls the functionality of each recycling machines connected to it.
